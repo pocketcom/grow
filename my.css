@@ -1,0 +1,13 @@
+.header-top{
+  display:flex;
+  height: 80px;
+}
+.site-icon {
+  color:red;
+}
+.header-list{
+  color:green;
+}
+main img{
+  width:100%;
+}
